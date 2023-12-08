@@ -14,22 +14,6 @@ GIT
       jekyll-sitemap (~> 1.4)
       jekyll-titles-from-headings (~> 0.5.3)
 
-GIT
-  remote: https://github.com/Scribouilli/mimoza.git
-  revision: 11029ac8dcc929d0cd609babacbe61d3fdc96637
-  branch: main
-  specs:
-    mimoza (1.0.0)
-      jekyll (~> 4.3.2)
-      jekyll-default-layout (~> 0.1.5)
-      jekyll-feed (~> 0.17)
-      jekyll-optional-front-matter (~> 0.3)
-      jekyll-paginate-v2 (~> 3.0)
-      jekyll-redirect-from (~> 0.16)
-      jekyll-seo-tag (~> 2.8)
-      jekyll-sitemap (~> 1.4)
-      jekyll-titles-from-headings (~> 0.5.3)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -138,7 +122,6 @@ DEPENDENCIES
   jekyll-sitemap (~> 1.4)
   jekyll-titles-from-headings (~> 0.5.3)
   kabusin!
-  mimoza!
   rspec
   webrick (~> 1.7)
 
