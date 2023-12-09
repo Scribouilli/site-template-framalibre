@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/Scribouilli/kabusin.git
-  revision: 9ea8fb6fae845abe5f3dacafb2a23861cff39fd9
-  branch: add-gemspec
+  revision: 0e87c9506bac503f7bbab5be3627a691556aa602
+  branch: main
   specs:
     kabusin (1.0.0)
       jekyll (~> 4.3.2)
