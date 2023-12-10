@@ -2,7 +2,10 @@
 
 name: Deploy Scribouilli site to GitHub Pages with a custom theme
 
-on: [push]
+on: 
+  push:
+  repository_dispatch:
+    types: atelier-scribouilli
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
