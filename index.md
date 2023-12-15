@@ -1,11 +1,13 @@
 ---
-title: Mon mini-site Framalibre
+title: Ma page de recommandations
 order: 0
 ---
 
 C'est le moment de lister vos logiciels libres préférés, pour les recommander autour de vous !
 
 Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site)
+
+Un exemple ci-dessous :
 
 # Mes logiciels libres pour randonner
 
