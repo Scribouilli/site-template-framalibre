@@ -3,8 +3,12 @@ title: Mon mini-site Framalibre
 order: 0
 ---
 
-J'écris ici un texte de présentation de mon mini-site Framalibre et je peux
-lister les logiciels libres que je recommande.
+C'est le moment de lister vos logiciels libres préférés, pour les recommander autour de vous !
+Toutes les informations sur la mise en page sur https://beta.framalibre.org/mini-site
+
+# Mes logiciels libres pour randonner
+
+## Pour ce que j'aurai filmé
 
 <article class="framalibre-notice">
   <div>
