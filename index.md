@@ -1,10 +1,17 @@
 ---
-title: Mon mini-site Framalibre
+title: Ma page de recommandations
 order: 0
 ---
 
-J'écris ici un texte de présentation de mon mini-site Framalibre et je peux
-lister les logiciels libres que je recommande.
+C'est le moment de lister vos logiciels libres préférés, pour les recommander autour de vous !
+
+Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site)
+
+Un exemple ci-dessous :
+
+# Mes logiciels libres pour randonner
+
+## Pour ce que j'aurai filmé
 
 <article class="framalibre-notice">
   <div>
@@ -20,3 +27,20 @@ lister les logiciels libres que je recommande.
   </div>
 </article>
 
+## Pour écouter des émissions
+
+Quand je fais une pause, j'aime bien écouter un petit podcast avec :
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://beta.framalibre.org/images/logo/AntennaPod.png">
+    </div>
+    <div>
+      <h2>AntennaPod</h2>
+      <p>Un gestionnaire de Podcast pour Android.</p>
+      <div>
+        <a href="https://beta.framalibre.org/notices/antennapod.html">Vers la notice Framalibre</a>
+        <a href="http://antennapod.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
