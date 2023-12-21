@@ -1,6 +1,5 @@
 GIT
   remote: https://github.com/Scribouilli/kabusin.git
-  revision: 0e87c9506bac503f7bbab5be3627a691556aa602
   branch: main
   specs:
     kabusin (1.0.0)
