@@ -19,5 +19,5 @@ order: 0
 - et enfin, **publier la page** pour tout enregistrer !
 
 
-<img src="{{'images/capture_bouton_copier_minisite.png' | relative_url}}" alt="">
+![Le bouton se trouve tout en bas d'une notice](https://beta.framalibre.org/images/capture_bouton_copier_minisite.png)
 
