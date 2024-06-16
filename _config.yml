@@ -1,6 +1,10 @@
 collections:
   projects:
     output: true
+
 plugins:
   - jekyll-feed
+
 theme: kabusin
+
+scribouilli: true
